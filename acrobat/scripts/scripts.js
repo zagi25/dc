@@ -32,6 +32,10 @@ function loadStyles(paths) {
   });
 }
 
+
+
+
+
 function addLocale(locale) {
   const metaTag = document.createElement('meta');
   metaTag.setAttribute('property', 'og:locale');
